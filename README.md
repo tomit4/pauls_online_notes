@@ -5,4 +5,4 @@ assignments to [Paul's Online Notes](https://tutorial.math.lamar.edu/).
 
 **LEFT OFF:**
 
-[Section 1.5 Notes](https://tutorial.math.lamar.edu/Classes/Alg/Factoring.aspx)
+[Section 1.6 Notes](https://tutorial.math.lamar.edu/Classes/Alg/RationalExpressions.aspx)
