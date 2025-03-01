@@ -5,4 +5,4 @@ assignments to [Paul's Online Notes](https://tutorial.math.lamar.edu/).
 
 **LEFT OFF:**
 
-[Section 1.7 Notes](https://tutorial.math.lamar.edu/Classes/Alg/ComplexNumbers.aspx)
+[Section 2.1 Notes](https://tutorial.math.lamar.edu/Classes/Alg/SolutionSets.aspx)
