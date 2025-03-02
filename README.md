@@ -5,4 +5,4 @@ assignments to [Paul's Online Notes](https://tutorial.math.lamar.edu/).
 
 **LEFT OFF:**
 
-[Section 2.2 Notes](https://tutorial.math.lamar.edu/Classes/Alg/SolveLinearEqns.aspx)
+[Section 2.3 Notes](https://tutorial.math.lamar.edu/Classes/Alg/LinearApps.aspx)
