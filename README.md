@@ -5,4 +5,4 @@ assignments to [Paul's Online Notes](https://tutorial.math.lamar.edu/).
 
 **LEFT OFF:**
 
-[Section 2.7 Notes](https://tutorial.math.lamar.edu/Classes/Alg/SolveQuadraticEqnSummary.aspx)
+[Section 2.8 Notes](https://tutorial.math.lamar.edu/Classes/Alg/QuadraticApps.aspx)
