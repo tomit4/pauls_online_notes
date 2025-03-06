@@ -5,4 +5,4 @@ assignments to [Paul's Online Notes](https://tutorial.math.lamar.edu/).
 
 **LEFT OFF:**
 
-[Section 2.12 Notes](https://tutorial.math.lamar.edu/Classes/Alg/SolvePolyInequalities.aspx)
+[Section 2.13 Notes](https://tutorial.math.lamar.edu/Classes/Alg/SolveRationalInequalities.aspx)
