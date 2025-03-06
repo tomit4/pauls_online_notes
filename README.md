@@ -5,4 +5,4 @@ assignments to [Paul's Online Notes](https://tutorial.math.lamar.edu/).
 
 **LEFT OFF:**
 
-[Section 2.10 Notes](https://tutorial.math.lamar.edu/Classes/Alg/SolveRadicalEqns.aspx)
+[Section 2.11 Notes](https://tutorial.math.lamar.edu/Classes/Alg/SolveLinearInequalities.aspx)
