@@ -5,4 +5,4 @@ assignments to [Paul's Online Notes](https://tutorial.math.lamar.edu/).
 
 **LEFT OFF:**
 
-[Section 3.6 Notes](https://tutorial.math.lamar.edu/Classes/Alg/CombineFunctions.aspx)
+[Section 3.7 Notes](https://tutorial.math.lamar.edu/Classes/Alg/InverseFunctions.aspx)
