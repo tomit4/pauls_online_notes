@@ -5,4 +5,4 @@ assignments to [Paul's Online Notes](https://tutorial.math.lamar.edu/).
 
 **LEFT OFF:**
 
-[Section 3.7 Notes](https://tutorial.math.lamar.edu/Classes/Alg/InverseFunctions.aspx)
+[Section 4.1 Notes](https://tutorial.math.lamar.edu/Classes/Alg/Lines_Circles_PWF.aspx)
