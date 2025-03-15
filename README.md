@@ -5,4 +5,4 @@ assignments to [Paul's Online Notes](https://tutorial.math.lamar.edu/).
 
 **LEFT OFF:**
 
-[Section 4.2 Notes](https://tutorial.math.lamar.edu/Classes/Alg/Parabolas.aspx)
+[Section 4.3 Notes](https://tutorial.math.lamar.edu/Classes/Alg/Ellipses.aspx)
