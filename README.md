@@ -5,4 +5,4 @@ assignments to [Paul's Online Notes](https://tutorial.math.lamar.edu/).
 
 **LEFT OFF:**
 
-[Section 4.6 Notes](https://tutorial.math.lamar.edu/Classes/Alg/Transformations.aspx)
+[Section 4.7 Notes](https://tutorial.math.lamar.edu/Classes/Alg/Symmetry.aspx)
