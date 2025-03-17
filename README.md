@@ -5,4 +5,4 @@ assignments to [Paul's Online Notes](https://tutorial.math.lamar.edu/).
 
 **LEFT OFF:**
 
-[Section 4.8 Notes](https://tutorial.math.lamar.edu/Classes/Alg/GraphRationalFcns.aspx)
+[Section 5.1 Notes](https://tutorial.math.lamar.edu/Classes/Alg/DividingPolynomials.aspx)
