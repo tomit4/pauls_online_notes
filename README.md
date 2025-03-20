@@ -5,4 +5,4 @@ assignments to [Paul's Online Notes](https://tutorial.math.lamar.edu/).
 
 **LEFT OFF:**
 
-[Section 5.2 Notes](https://tutorial.math.lamar.edu/Classes/Alg/ZeroesOfPolynomials.aspx)
+[Section 5.3 Notes](https://tutorial.math.lamar.edu/Classes/Alg/GraphingPolynomials.aspx)
