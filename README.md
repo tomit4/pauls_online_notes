@@ -5,4 +5,4 @@ assignments to [Paul's Online Notes](https://tutorial.math.lamar.edu/).
 
 **LEFT OFF:**
 
-[Section 5.5 Notes](https://tutorial.math.lamar.edu/Classes/Alg/PartialFractions.aspx)
+[Section 6.1 Notes](https://tutorial.math.lamar.edu/Classes/Alg/ExpFunctions.aspx)
