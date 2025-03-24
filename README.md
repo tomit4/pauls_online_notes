@@ -5,4 +5,4 @@ assignments to [Paul's Online Notes](https://tutorial.math.lamar.edu/).
 
 **LEFT OFF:**
 
-[Section 6.4 Notes](https://tutorial.math.lamar.edu/Classes/Alg/SolveLogEqns.aspx)
+[Section 6.5 Notes](https://tutorial.math.lamar.edu/Classes/Alg/ExpLogApplications.aspx)
