@@ -5,4 +5,4 @@ assignments to [Paul's Online Notes](https://tutorial.math.lamar.edu/).
 
 **LEFT OFF:**
 
-[Section 7.3 Notes](https://tutorial.math.lamar.edu/Classes/Alg/AugmentedMatrix.aspx)
+[Section 7.4 Notes](https://tutorial.math.lamar.edu/Classes/Alg/AugmentedMatrixII.aspx)
